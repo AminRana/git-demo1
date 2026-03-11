@@ -2,3 +2,6 @@ Hello Git!
 This is the second line.
 Feature-1
 added new project
+
+No war, Want Peace.
+I love peace and happiness.
